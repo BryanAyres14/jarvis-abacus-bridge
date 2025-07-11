@@ -1,0 +1,14 @@
+{
+  "id": "job_1752217606",
+  "type": "linkedin_humanization",
+  "created_at": "2025-07-11T00:06:55.510013",
+  "status": "pending",
+  "files": [
+    "leadership/1._jarvis_anderson.md",
+    "leadership/2._camila_flores.md",
+    "directors/1._neha_malhotra.md",
+    "directors/2._david_medo.md",
+    "directors/3._simone_walker.md"
+  ],
+  "instructions": "\nHumanize these LinkedIn profiles:\n1. Remove AI-sounding phrases\n2. Keep all facts, years, and details exactly the same\n3. Add personality and warmth\n4. Vary sentence structure\n5. Make each profile sound unique and authentic\n"
+}
